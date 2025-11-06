@@ -1,0 +1,1 @@
+This week, I’ll be setting up my environment by installing Anaconda, VS Code, and Jupyter Notebook. I’ll begin learning Python for Data Analysis using O’Reilly’s Python for Data Analysis, focusing on Chapters 1 and 2 for the first week.
